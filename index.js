@@ -9,7 +9,7 @@ import './styles/fonts.css'
 import './styles/variables.css'
 import './styles/helpers.css'
 import './styles/defaults.css'
-import './App'
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
